@@ -5,8 +5,22 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url(./BGFMP.jpg)
+}
+h1 {
+  color: aliceblue;
 }
 
+h2{
+  color: aliceblue 
+}
+li {
+  color: aliceblue
+
+}
+p{
+  color: aliceblue
+}
 header {
   grid-area: header;
   color: white;
@@ -14,7 +28,7 @@ header {
   font-family: 'Gill Sans';
   font-size: 200%;
   text-align: center;
-  background-image: url('./bridge.jpg');
+  background-image: url(./BGFMP.jpg)
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -60,7 +74,7 @@ footer {
 }
 
 img {
-  width: 25%;
+  width: 45%;
 }
 
 .container {
